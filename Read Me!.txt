@@ -1,0 +1,23 @@
+			Information on running this Unity project
+
+The Unity Project is located at Guan_Shaokai_GDPL_2\Unity_GDPL_2
+
+All the scenes in this project are located at Guan_Shaokai_GDPL_2\Unity_GDPL_2\Assets\_Scenes
+
+Make sure to run this project while the start menu is loaded, so you can see all the features I have in this project!
+
+once the start menu is launched, click on "Start" to play the "game"!
+
+when the game is finished, you will be taken to the Win Screen, click on "Play Again" while you at the Win Screen to play this project again! 
+
+
+
+			Other document information;
+
+The report document is located  at Guan_Shaokai_GDPL_2
+
+Model files are located at Guan_Shaokai_GDPL_2\AssetsForUnity
+
+Images used in the report are located at Guan_Shaokai_GDPL_2\Images_Used_In_The_Report
+
+Video Recorded for this assignment is located at Guan_Shaokai_GDPL_2
